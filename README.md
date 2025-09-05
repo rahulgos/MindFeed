@@ -30,7 +30,16 @@ MindFeed is a **Jetpack Compose Android app** that displays categorized tweets f
 - Hilt (Dependency Injection)  
 - Retrofit (Networking)  
 - StateFlow (Reactive UI)  
-- Android Studio  
+- Android Studio
+- Postman
+
+---
+
+## API & Tools
+
+- **JSONBin.io** – Hosted JSON API for tweets and categories  
+- **Postman** – Tested API requests and responses before integrating in the app  
+- **Retrofit** – Consumed API data in the Android app
 
 ---
 
@@ -46,6 +55,8 @@ com.rahulgoswami.mindfeed
 ├─ MainActivity.kt
 └─ MindFeed.kt → Application class
 
+---
+
 ## How to Run 
 
 - Clone the repository: 
@@ -53,6 +64,8 @@ com.rahulgoswami.mindfeed
 - Open the project in Android Studio. 
 - Sync Gradle and build the project. 
 - Run on an emulator or physical device.
+
+---
 
 ## License 
 
